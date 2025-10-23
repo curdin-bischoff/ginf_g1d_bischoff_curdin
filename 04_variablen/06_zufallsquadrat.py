@@ -2,7 +2,7 @@ import turtle
 import random
 
 turtle.shape("turtle")
-x = random.randrange(10, 100)
+x = random.randrange(10, 101)
 
 turtle.fd(x)
 turtle.lt(90)
