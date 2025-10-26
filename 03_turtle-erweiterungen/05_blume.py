@@ -42,4 +42,3 @@ turtle.goto(-20, 60)
 turtle.pd()
 turtle.pencolor("green")
 turtle.dot(40)
-    

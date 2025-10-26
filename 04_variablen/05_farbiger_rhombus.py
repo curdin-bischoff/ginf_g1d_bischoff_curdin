@@ -17,7 +17,3 @@ turtle.rt(a)
 turtle.fd(länge)
 turtle.rt(b)
 turtle.fd(länge)
-
-
-
-

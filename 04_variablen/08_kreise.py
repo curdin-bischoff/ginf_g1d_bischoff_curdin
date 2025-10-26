@@ -1,5 +1,5 @@
-import turtle
 import random
+import turtle
 
 r = random.randrange(50, 76)
 Rot = "red"
@@ -27,4 +27,3 @@ turtle.circle(r)
 turtle.pu()
 turtle.fd(r)
 turtle.pd()
-

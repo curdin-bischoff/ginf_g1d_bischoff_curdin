@@ -35,7 +35,3 @@ turtle.shape("turtle")
 
 turtle.goto(50, 100)
 turtle.goto(50, 50)
-
-
-
-

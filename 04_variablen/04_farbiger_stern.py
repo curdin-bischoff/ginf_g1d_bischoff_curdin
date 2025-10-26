@@ -34,6 +34,3 @@ turtle.fd(a)
 turtle.lt(120)
 turtle.fd(a)
 turtle.rt(48)
-
-
-

@@ -20,7 +20,3 @@ turtle.penup()
 turtle.forward(30)
 turtle.pendown()
 turtle.forward(20)
-
-
-
-
