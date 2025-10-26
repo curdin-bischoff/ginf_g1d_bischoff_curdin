@@ -24,6 +24,8 @@ Für jeden **Fehler** gibt es mindestens einen **Abzug von 0,25 Punkten**.
 | Clean-Code-Regeln      |    0,75/2     | Sie verletzen drei Clean-Code-Regeln (siehe unten)                                                   |
 | Struktur               |      1/1      | :grinning:                                                                                           |
 
+Sie erhalten für diese **Bewertung 3,75 von 6 Punkten**.
+
 Fehler in Ordner- und Dateinamen:
 
 - Die Python-Datei 02_rechteck.py ist nicht vorhanden.
@@ -47,5 +49,3 @@ Allgemein:
 - random.randrange korrekt verwenden: x = random.randrange(-100, 101) für eine Zufallszahl zwischen -100 und 100 und
   nicht x = random.randrange(-100, 100) wie in Ihrem Code (gilt für die anderen Zahlen natürlich auch, d.h. immer eins
   mehr bei der zweiten Zahl, wie man will)
-
-Sie erhalten für diese **Bewertung 3,75 von 6 Punkten**.
