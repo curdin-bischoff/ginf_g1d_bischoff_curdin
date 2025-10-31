@@ -1,19 +1,18 @@
 import turtle
 
 turtle.shape("turtle")
-länge = 100
-farbe = "blue"
-bold = 5
-a = 60
-b = 120
-turtle.pencolor(farbe)
-turtle.pensize(bold)
-
+length = 100
+blue_color = "blue"
+bold_pensize = 5
+alpha = 60
+beta = 120
+turtle.pencolor(blue_color_color)
+turtle.pensize(bold_pensize)
 turtle.rt(30)
-turtle.fd(länge)
-turtle.rt(b)
-turtle.fd(länge)
-turtle.rt(a)
-turtle.fd(länge)
-turtle.rt(b)
-turtle.fd(länge)
+turtle.fd(length)
+turtle.rt(beta)
+turtle.fd(length)
+turtle.rt(alpha)
+turtle.fd(length)
+turtle.rt(beta)
+turtle.fd(length)

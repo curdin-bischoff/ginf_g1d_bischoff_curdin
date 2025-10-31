@@ -1,29 +1,28 @@
 import random
 import turtle
 
-r = random.randrange(50, 76)
-Rot = "red"
-Grün = "green"
-Blau = "blue"
-Pink = "pink"
-
-turtle.pencolor(Rot)
-turtle.circle(r)
+length_radius = random.randrange(50, 76)
+red_color = "red"
+green_color = "green"
+blue_color = "blue"
+pink_color = "pink"
+turtle.pencolor(red_color)
+turtle.circle(length_radius)
 turtle.pu()
-turtle.fd(r)
+turtle.fd(length_radius)
 turtle.pd()
-turtle.pencolor(Grün)
-turtle.circle(r)
+turtle.pencolor(green_color)
+turtle.circle(length_radius)
 turtle.pu()
-turtle.fd(r)
+turtle.fd(length_radius)
 turtle.pd()
-turtle.pencolor(Blau)
-turtle.circle(r)
+turtle.pencolor(blue_color)
+turtle.circle(length_radius)
 turtle.pu()
-turtle.fd(r)
+turtle.fd(length_radius)
 turtle.pd()
-turtle.pencolor(Pink)
-turtle.circle(r)
+turtle.pencolor(pink_color)
+turtle.circle(length_radius)
 turtle.pu()
-turtle.fd(r)
+turtle.fd(length_radius)
 turtle.pd()

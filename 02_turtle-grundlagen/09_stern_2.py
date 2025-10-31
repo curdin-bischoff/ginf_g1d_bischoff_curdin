@@ -2,7 +2,6 @@ import turtle
 
 turtle.shape("turtle")
 a = 50
-
 turtle.fd(a)
 turtle.pu()
 turtle.fd(a)
@@ -13,13 +12,11 @@ turtle.pu()
 turtle.fd(a)
 turtle.pd()
 turtle.fd(a)
-
 turtle.pu()
 turtle.bk(150)
 turtle.lt(45)
 turtle.bk(150)
 turtle.pd()
-
 turtle.fd(a)
 turtle.pu()
 turtle.fd(a)
@@ -30,13 +27,11 @@ turtle.pu()
 turtle.fd(a)
 turtle.pd()
 turtle.fd(a)
-
 turtle.pu()
 turtle.bk(150)
 turtle.lt(45)
 turtle.bk(150)
 turtle.pd()
-
 turtle.fd(a)
 turtle.pu()
 turtle.fd(a)
@@ -47,13 +42,11 @@ turtle.pu()
 turtle.fd(a)
 turtle.pd()
 turtle.fd(a)
-
 turtle.pu()
 turtle.bk(150)
 turtle.lt(45)
 turtle.bk(150)
 turtle.pd()
-
 turtle.fd(a)
 turtle.pu()
 turtle.fd(a)

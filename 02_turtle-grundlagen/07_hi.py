@@ -1,7 +1,6 @@
 import turtle
 
 turtle.shape("turtle")
-
 turtle.left(90)
 turtle.forward(100)
 turtle.backward(50)

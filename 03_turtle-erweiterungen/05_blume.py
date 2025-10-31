@@ -1,7 +1,9 @@
 import turtle
 
 turtle.speed(10)
+turtle.pu()
 turtle.goto(20, 20)
+turtle.pd()
 turtle.pencolor("yellow")
 turtle.dot(80)
 turtle.goto(-40, 20)

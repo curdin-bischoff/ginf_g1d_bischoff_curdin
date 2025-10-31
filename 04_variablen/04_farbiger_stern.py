@@ -1,36 +1,31 @@
 import turtle
 
 turtle.shape("turtle")
-a = 100
-farbe1 = "red"
-farbe2 = "blue"
-
-turtle.pencolor(farbe1)
-turtle.fd(a)
+length = 100
+red_color = "red"
+blue_color = "blue"
+turtle.pencolor(red_color)
+turtle.fd(length)
 turtle.lt(120)
-turtle.fd(a)
+turtle.fd(length)
 turtle.rt(48)
-
-turtle.pencolor(farbe2)
-turtle.fd(a)
+turtle.pencolor(blue_color)
+turtle.fd(length)
 turtle.lt(120)
-turtle.fd(a)
+turtle.fd(length)
 turtle.rt(48)
-
-turtle.pencolor(farbe1)
-turtle.fd(a)
+turtle.pencolor(red_color)
+turtle.fd(length)
 turtle.lt(120)
-turtle.fd(a)
+turtle.fd(length)
 turtle.rt(48)
-
-turtle.pencolor(farbe2)
-turtle.fd(a)
+turtle.pencolor(blue_color)
+turtle.fd(length)
 turtle.lt(120)
-turtle.fd(a)
+turtle.fd(length)
 turtle.rt(48)
-
-turtle.pencolor(farbe1)
-turtle.fd(a)
+turtle.pencolor(red_color)
+turtle.fd(length)
 turtle.lt(120)
-turtle.fd(a)
+turtle.fd(length)
 turtle.rt(48)

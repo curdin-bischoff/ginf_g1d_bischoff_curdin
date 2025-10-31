@@ -1,7 +1,6 @@
 import turtle
 
 turtle.shape("turtle")
-
 turtle.pencolor("red")
 turtle.speed(1)
 turtle.circle(25)

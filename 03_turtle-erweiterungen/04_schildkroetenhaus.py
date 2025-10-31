@@ -3,28 +3,22 @@ import turtle
 turtle.shape("turtle")
 turtle.pensize(5)
 turtle.pencolor("brown")
-
 turtle.goto(0, 0)
 turtle.goto(50, 0)
-
 turtle.pu()
 turtle.goto(100, 0)
 turtle.rt(180)
-
 turtle.pencolor("green")
 turtle.stamp()
 turtle.pencolor("brown")
-
 turtle.goto(50, 0)
 turtle.pd()
-
 turtle.goto(50, 50)
 turtle.goto(0, 50)
 turtle.goto(0, 0)
 turtle.goto(50, 50)
 turtle.goto(50, 0)
 turtle.goto(0, 50)
-
 turtle.pencolor("red")
 turtle.goto(25, 80)
 turtle.pencolor("black")
@@ -32,6 +26,5 @@ turtle.shape("square")
 turtle.stamp()
 turtle.pencolor("red")
 turtle.shape("turtle")
-
 turtle.goto(50, 100)
 turtle.goto(50, 50)

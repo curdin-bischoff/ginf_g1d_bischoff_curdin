@@ -3,7 +3,6 @@ import turtle
 turtle.shape("turtle")
 turtle.pensize(3)
 turtle.pencolor("brown")
-
 turtle.fd(150)
 turtle.lt(90)
 turtle.fd(150)
