@@ -3,8 +3,8 @@ import turtle
 
 D = random.randrange(10, 30)
 Orange = "orange"
-x = random.randrange(-100, 100)
-y = random.randrange(-100, 100)
+x = random.randrange(-100, 101)
+y = random.randrange(-100, 101)
 
 turtle.pu()
 turtle.pencolor(Orange)

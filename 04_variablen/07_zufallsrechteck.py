@@ -1,8 +1,8 @@
 import random
 import turtle
 
-a = random.randrange(50, 100)
-n = random.randrange(25, 40)
+a = random.randrange(50, 101)
+n = random.randrange(25, 41)
 
 turtle.fd(a)
 turtle.lt(90)
