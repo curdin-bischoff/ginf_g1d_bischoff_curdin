@@ -2,12 +2,12 @@ import random
 import turtle
 
 turtle.shape("turtle")
-length_x = random.randrange(10, 101)
-turtle.fd(length_x)
+a = random.randrange(10, 101)
+turtle.fd(a)
 turtle.lt(90)
-turtle.fd(length_x)
+turtle.fd(a)
 turtle.lt(90)
-turtle.fd(length_x)
+turtle.fd(a)
 turtle.lt(90)
-turtle.fd(length_x)
+turtle.fd(a)
 turtle.lt(90)

@@ -1,14 +1,14 @@
-import turtle
 import random
+import turtle
 
 x_1 = random.randrange(-100, 101)
-x_2 = random.randrange (-100, 101)
-x_3 = random.randrange (-100, 101)
-y_1 = random.randrange (-200, 276)
-y_2 = random.randrange (-200, 276)
-y_3 = random.randrange (-200, 276)
-d = random.randrange (10, 26)
-farbe_1 = "red" 
+x_2 = random.randrange(-100, 101)
+x_3 = random.randrange(-100, 101)
+y_1 = random.randrange(-200, 276)
+y_2 = random.randrange(-200, 276)
+y_3 = random.randrange(-200, 276)
+d = random.randrange(10, 26)
+farbe_1 = "red"
 farbe_2 = "green"
 farbe_3 = "blue"
 stiftstaerke = 3
