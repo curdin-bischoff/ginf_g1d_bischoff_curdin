@@ -11,5 +11,5 @@ for _ in range(5):
     for _ in range(5):
         t.fd(a)
         t.lt(144)
-    t.lt(144)
+    t.lt(72)
     a = rd.randrange(50, 201)
