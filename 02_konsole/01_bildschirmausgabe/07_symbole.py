@@ -1,7 +1,12 @@
 import random as rd
 
-symbol = "a", "b", "c"
-symbolprint = rd.choice(symbol)
+symbole = ["****", "$$$$", "€€€€"]
+symbol = rd.choice(symbole)
 for _ in range(4):
-  print(symbolprint, symbolprint, symbolprint, symbolprint)
+  print(symbol)
+  
+symbole = ["*", "$", "€"]
+symbol = rd.choice(symbole)
+for _ in range(4):
+  print(4 * symbol)
   
