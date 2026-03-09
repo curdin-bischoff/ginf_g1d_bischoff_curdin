@@ -1,5 +1,5 @@
 import math as m
-import random as radien
+import random as rd
  
 radikanden =  [4, 25, 10, 99, 100, 42, 3600, 289, 2, 7]
 x = rd.choice(radikanden)
