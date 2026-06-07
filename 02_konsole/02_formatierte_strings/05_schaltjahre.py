@@ -2,6 +2,7 @@ import random as rd
 import calendar as cal
 
 überprüfungen = rd.randrange(10, 21)
+print(f"Es werden {überprüfungen} zufällige Jahre überprüft.")
 for _ in range(überprüfungen):
   jahr = rd.randrange(1900, 2025)
   antwort = cal.isleap(jahr)

@@ -1,4 +1,5 @@
 import PIL.Image as img
+
 bild = img.new("RGB", (3, 2))
 bild.putpixel((0, 0), (255, 0, 0))
 bild.putpixel((1, 0), (0, 255, 0))

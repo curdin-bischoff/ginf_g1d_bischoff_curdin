@@ -6,7 +6,6 @@ zins = rd.choice(zinsen_arten)
 zinssatz = zins*100
 zinsen = zins*konto
 neues_konto = konto + zinsen
-
 print("Jahresende - Kontoauszug")
 print(f"Kontostand: CHF {konto}")
 print(f"Zinssatz: {zinssatz} %")

@@ -1,6 +1,3 @@
-print("Bitte geben Sie eine Farbe ein (nicht rot!): {farbe}")
-farbe = input()
-print(f"Was ist {farbe}e Farbe und riecht nach roter farbe? {farbe}e Farbe")
 print("Bitte geben Sie eine Farbe ein (nicht rot!):")
 farbe = input()
-print(f"Was ist {farbe} und riecht nach roter Farbe? {farbe}e Farbe!")
+print(f"Was ist {farbe} und riecht nach roter farbe? {farbe}e Farbe")

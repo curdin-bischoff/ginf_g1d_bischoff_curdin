@@ -17,11 +17,4 @@ for x in range(0, 20):
 for x in range(0, 20):
     bild.putpixel((x, 2), farbe)
 
-# Alternativ
-
-# for x in range(0, 20):
-#    bild.putpixel((x, 0), farbe)
-#    bild.putpixel((x, 1), farbe)
-#    bild.putpixel((x, 2), farbe)
-
 bild.save("08_gefuelltes_rechteck_ergebnis.png")
